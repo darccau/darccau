@@ -1,4 +1,4 @@
-<h1 align="center">Eduardo "Darccau" Paixão </h1>
+<h1 align="center">"Darccau"</h1>
 
 <p align="center">I'm a pentester and software developer based on Brazil  </p>
 
